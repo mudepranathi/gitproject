@@ -1,2 +1,2 @@
 # gitproject
-Hi!! This is M.Pranathi. I'm Learner.
+Hi!! This is M.Pranathi. I'm Beginner for GITHUB.
